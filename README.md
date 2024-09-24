@@ -1,10 +1,6 @@
 # WordPress-Projects
 This repository showcases some of my recent WordPress projects, focusing on converting Figma designs into fully functional WordPress websites.
 
-# WordPress Projects
-
-Hey there! I'm Talha, a skilled WordPress developer with over 8 years of experience converting Figma designs into responsive, fully-functional WordPress websites. 
-
 ## About Me
 I specialize in:
 - **WordPress Development:** Building and customizing themes, plugins, and custom post types.
